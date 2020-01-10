@@ -1,0 +1,54 @@
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.deps.json
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.runtimeconfig.json
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.runtimeconfig.dev.json
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.dll
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.pdb
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.csprojAssemblyReference.cache
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/staticwebassets/TestIndikatore.StaticWebAssets.Manifest.cache
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/staticwebassets/TestIndikatore.StaticWebAssets.xml
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.MvcApplicationPartsAssemblyInfo.cache
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.AssemblyInfoInputs.cache
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.AssemblyInfo.cs
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.RazorTargetAssemblyInfo.cache
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.dll
+/Users/joaopedromesquita/Projects/TestIndikatore/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.pdb
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.deps.json
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.runtimeconfig.json
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.runtimeconfig.dev.json
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.dll
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.pdb
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.csprojAssemblyReference.cache
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/staticwebassets/TestIndikatore.StaticWebAssets.Manifest.cache
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/staticwebassets/TestIndikatore.StaticWebAssets.xml
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.MvcApplicationPartsAssemblyInfo.cache
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.AssemblyInfoInputs.cache
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.AssemblyInfo.cs
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.RazorTargetAssemblyInfo.cache
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.dll
+/Users/joseph/Desktop/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.pdb
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.deps.json
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.runtimeconfig.json
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.runtimeconfig.dev.json
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.dll
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/bin/Debug/netcoreapp3.0/TestIndikatore.pdb
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.csprojAssemblyReference.cache
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/staticwebassets/TestIndikatore.StaticWebAssets.Manifest.cache
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/staticwebassets/TestIndikatore.StaticWebAssets.xml
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.MvcApplicationPartsAssemblyInfo.cache
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.AssemblyInfoInputs.cache
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.AssemblyInfo.cs
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.RazorTargetAssemblyInfo.cache
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.dll
+/Users/joaopedromesquita/Downloads/TestIndikatore 2/TestIndikatore/obj/Debug/netcoreapp3.0/TestIndikatore.pdb
